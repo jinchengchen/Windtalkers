@@ -1,0 +1,12 @@
+# Ignore editor temp files and MacOS Finder files
+*.swp
+*~
+.DS_Store
+._.DS_Store
+
+# Ignore all build outputs
+target/
+
+# Ignore all IntelliJ files
+.idea/
+*.iml
